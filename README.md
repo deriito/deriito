@@ -15,18 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <tbody style="border: none">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&show_icons=true" alt="GitHub Stats" />
-        <br/>
-        <br/>
-        <img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito" alt="Top Languages" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| <img src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&show_icons=true" alt="GitHub Stats" /><br/><br/><img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito" alt="Top Languages" /> |
+|:---:|:---:|
