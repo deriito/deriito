@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito&layout=compact" alt="Top Languages" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&show_icons=true&rank_icon=percentile" alt="GitHub Stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito&layout=compact&langs_count=8&card_width=350" alt="Top Languages" /></a>
+
+<!--
+<br />
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" /></a>
+-->
+
+<a href="https://u8views.com/github/deriito"><img src="https://u8views.com/api/v1/github/profiles/34326573/views/day-week-month-total-count.svg" alt="Profile Views" /></a>
