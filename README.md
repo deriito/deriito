@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&show_icons=true" alt="GitHub Stats" /><br/><br/><img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito" alt="Top Languages" /> |
-|:---:|:---:|
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito&layout=compact" alt="Top Languages" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" />
