@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=deriito&count_private=true&show_icons=true&rank_icon=percentile&card_width=400" alt="GitHub Stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito&layout=compact&langs_count=8&card_width=400" alt="Top Languages" /></a>
+<a arget="_blank" rel="noopener noreferrer nofollow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="137px" align="center"  style="max-width: 100%;" srcset="https://github-readme-stats.vercel.app/api?username=deriito&hide_title=false&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=github_dark">
+    <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=deriito&hide_title=false&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=default" style="max-width: 100%;">
+  </picture>
+</a>
+<a arget="_blank" rel="noopener noreferrer nofollow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="137px" align="center"  style="max-width: 100%;" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&card_width=350&theme=github_dark">
+    <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deriito&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&card_width=350&theme=default" style="max-width: 100%;">
+  </picture>
+</a>
 
 <!--
 <br />
