@@ -30,7 +30,15 @@ Here are some ideas to get you started:
 
 <!--
 <br />
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" /></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <picture>
+    <img src="https://komarev.com/ghpvc/?username=deriito&style=for-the-badge" alt="Profile Views" />
+  </picture>
+</a>
 -->
 
-<a href="https://u8views.com/github/deriito"><img height="20px" src="https://u8views.com/api/v1/github/profiles/34326573/views/day-week-month-total-count.svg" alt="Profile Views" /></a>
+<a href="https://u8views.com/github/deriito">
+  <picture>
+    <img height="20px" src="https://u8views.com/api/v1/github/profiles/34326573/views/day-week-month-total-count.svg" alt="Profile Views" />
+  </picture>
+</a>
